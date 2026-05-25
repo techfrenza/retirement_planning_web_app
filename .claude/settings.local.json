@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(MSYS=winsymlinks:nativestrict ln -s CLAUDE.md AGENTS.md)"
+    ]
+  }
+}
